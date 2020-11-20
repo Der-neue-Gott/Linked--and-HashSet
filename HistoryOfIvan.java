@@ -58,7 +58,6 @@ public class HistoryOfIvan {
 
         System.out.println("\t [20.09.2020] \n " +
         "Мама Ивана возвращает ему долг. Теперь у Ивана снова появились деньги: ");
-            mothersDebt.forEach(System.out::println);
 
 /*      mothersDebt.forEach(System.out::println);
 
